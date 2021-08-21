@@ -1,1 +1,1 @@
-# Auto-Toilet-Flush-System-ATFS-
+# Auto Toilet Flush System or ATFS
