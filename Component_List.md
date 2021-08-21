@@ -1,1 +1,1 @@
-**Componenet List**
+**Component List**
