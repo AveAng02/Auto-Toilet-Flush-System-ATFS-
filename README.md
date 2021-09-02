@@ -22,8 +22,16 @@
 12. Ferrite Magnetic Rings
 
 **DELIVERABLES/ MILESTONES**
-> 
+1. Core Code
+2. Relay board
+3. Flush Mount
+4. Tuned PIR Module
+5. Arduino Housing Box
+6. Sensor Housing Box
 
 **TECHNICAL REQUIREMENTS**
+1. 220V AC
+2. Standard Indian Water Closet
+3. standard Arduino UNO 
 
 **LIMITS AND EXCLUTIONS**
