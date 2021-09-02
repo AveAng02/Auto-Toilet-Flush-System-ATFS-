@@ -21,9 +21,8 @@
 11. Copper Coil
 12. Ferrite Magnetic Rings
 
-**DELIVERABLES**
-
-**MILESTONES**
+**DELIVERABLES/ MILESTONES**
+> 
 
 **TECHNICAL REQUIREMENTS**
 
