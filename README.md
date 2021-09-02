@@ -17,9 +17,9 @@
 7. AC Connection Wire
 8. Polyolefin Heat Shrink Tube
 9. PIR Motion Sensor
-10.Sensor Housing Box
-11.Copper Coil
-12.Ferrite Magnetic Rings
+10. Sensor Housing Box
+11. Copper Coil
+12. Ferrite Magnetic Rings
 
 **DELIVERABLES**
 
