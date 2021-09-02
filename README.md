@@ -8,18 +8,18 @@
 > mount is used to pull up when required and the tank is full.
 
 **MATERIALS REQUIRED**
-> Arduino UNO
-> 9V Battery & Battery Cap
-> 5V Relay X 2
-> 220V AC to 12V DC Converter
-> Arduino Housing Box
-> PCB Prototyping Board
-> AC Connection Wire
-> Polyolefin Heat Shrink Tube
-> PIR Motion Sensor
-> Sensor Housing Box
-> Copper Coil
-> Ferrite Magnetic Rings
+1. Arduino UNO
+2. 9V Battery & Battery Cap
+3. 5V Relay X 2
+4. 220V AC to 12V DC Converter
+5. Arduino Housing Box
+6. PCB Prototyping Board
+7. AC Connection Wire
+8. Polyolefin Heat Shrink Tube
+9. PIR Motion Sensor
+10.Sensor Housing Box
+11.Copper Coil
+12.Ferrite Magnetic Rings
 
 **DELIVERABLES**
 
